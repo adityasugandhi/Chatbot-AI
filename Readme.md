@@ -1,4 +1,4 @@
-#Chatbot-AI
+# Chatbot-AI
 
 $python chat.py
-To open ChatBOT-AI
+ * To open ChatBOT-AI
